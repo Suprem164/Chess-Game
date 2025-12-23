@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+
+.chess-board {
+    height: 700px;
+    width: 700px;
+    background-color: white;
+    display: grid;
+    grid-template-columns: repeat(8, 87.5px);
+    grid-template-rows: repeat(8, 87.5px);
+}
+
+.tile {
+    height: 87.5px;
+    width: 87.5px;
+}
+
+.white-tile {
+    background-color: #eeeed2;
+}
+
+.black-tile {
+    background-color: #769656;
+}
