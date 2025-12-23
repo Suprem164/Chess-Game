@@ -65,7 +65,7 @@ export const InitialPosition = {
     a8: bRook, b8: bKnight, c8: bBishop, d8: bQueen,
     e8: bKing, f8: bBishop, g8: bKnight, h8: bRook,
 
-    // Black pawns (row 7): All 8 pawns
+    // Black pawns (row 7): All 8 pawns 
     a7: bPawn, b7: bPawn, c7: bPawn, d7: bPawn,
     e7: bPawn, f7: bPawn, g7: bPawn, h7: bPawn
 }
